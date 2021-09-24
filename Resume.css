@@ -129,12 +129,8 @@ ol {
     color: rgb(23, 0, 59);
 }
 
-.pisang3{
-    margin-left: 5%;
-}
-
-.pisang2{
-    margin-right: 5%;
+.pisang{
+    text-align: center;
 }
 
 .header{
