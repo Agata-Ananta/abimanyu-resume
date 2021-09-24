@@ -92,7 +92,9 @@ tbody{
 .foto{
     border: 4px dashed white;
     border-radius: 50%;
-    margin-left: 50%%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .org{
