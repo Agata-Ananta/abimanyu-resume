@@ -6,7 +6,7 @@ body{
 
 .perkenalan{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+    font-size: large;
     font-weight: 500;
     line-height: 25px;
     color: white;
@@ -24,7 +24,7 @@ body{
 
 .datadiri{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+    font-size: large;
     color: white;
     text-align: center;
     background-color: rgba(185, 70, 70, 0.555);
@@ -41,7 +41,7 @@ body{
 
 .pengalaman{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+    font-size: large;
     color: white;
     text-align: center;
     background-color: rgba(185, 70, 70, 0.555);
@@ -54,7 +54,7 @@ body{
 
 .inspirasi{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+    font-size: large;
     color: white;
     text-align: center;
     background-color: rgba(128, 128, 128, 0.555);
@@ -70,7 +70,7 @@ body{
 
 .pendidikan{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
+    font-size: large;
     color: white;
     text-align: center;
     background-color: rgba(128, 128, 128, 0.555);
@@ -150,6 +150,7 @@ ol {
 
 .pisang{
     text-align: center;
+    border-bottom: white solid 5px;
     
 }
 
@@ -166,3 +167,17 @@ ol {
     font-size: smaller;
     margin-left: -5%;
 }
+
+.medsos{
+    background-color: #c04839; /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    }
+    
+  
